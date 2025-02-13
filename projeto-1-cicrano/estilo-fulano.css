@@ -1,0 +1,12 @@
+h1 {
+    color: red;
+    font-size: 16px;
+}
+
+a {
+    text-decoration: underline;
+}
+
+strong {
+    font-weight: bold;
+}
